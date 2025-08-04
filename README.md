@@ -9,7 +9,7 @@ Install IRremote library 3.X.X+ version for code to work.
 Good tutorial - https://www.youtube.com/watch?v=TUlzOD9T3nI&t=292s
 
 ## Flashing attiny85 setup:
-burn bootloader once unless changing internal clock then burn again
+burn bootloader once unless changing internal clock then burn again <br/>
 Clock: internal 8MHz <br/>
 Processor: Attiny85 <br/>
 Programmer: Arduino as ISP
