@@ -10,7 +10,7 @@ Good tutorial - https://www.youtube.com/watch?v=TUlzOD9T3nI&t=292s
 
 ## Flashing attiny85 setup:
 burn bootloader once unless changing internal clock then burn again
-Clock - internal 8MHz
-Processor - Attiny85
-Programmer - Arduino as ISP
+Clock: internal 8MHz
+Processor: Attiny85
+Programmer: Arduino as ISP
 
